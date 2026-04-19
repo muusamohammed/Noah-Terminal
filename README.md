@@ -1,7 +1,3 @@
-Sure! Since you want to level up your professional profile and share your terminal on GitHub, it's important to have clear English documentation.
-
-Here is a full breakdown of the Noah Terminal commands in professional English. You can use this text for your GitHub README.md file or on your website's "Stats" section.
-
 🛠 Noah Terminal: Command Documentation
 Noah Terminal is a specialized Python-based environment designed for Ethical Hacking, Software Development, and Network Analysis.
 
